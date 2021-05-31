@@ -7,7 +7,7 @@
     "deploy": "gh-pages -d dist "
   },
   "main": "index.html",
-  "homepage": "https://yassine-mokni.github.io/portfolio/",
+  "homepage": "https://yassinmokni.me/",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
